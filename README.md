@@ -1,4 +1,4 @@
-[Image1](https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image1.jpg)
+[Image1]([https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image1.jpg](https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image1.jpg?raw=true))
 # 📊 Netflix Data Analysis with SQL
 
 ## 📁 Project Overview
