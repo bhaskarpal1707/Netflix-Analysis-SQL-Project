@@ -1,1 +1,1 @@
-# Netflix-Analysis-SQL-Project-
+# Netflix-Analysis-SQL-Project
