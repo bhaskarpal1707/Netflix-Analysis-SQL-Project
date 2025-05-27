@@ -215,9 +215,9 @@ GROUP BY 1;
 
 ## 👨‍💼 Author
 
-**\Bhaskar Pal**
+**Bhaskar Pal**
 Data enthusiast with a focus on analytics, SQL, and business intelligence.
-\📧 Contact: [bhaskarpal.official@gmail.com]  
+📧 Contact: [bhaskarpal.official@gmail.com]  
 
 ---
 
