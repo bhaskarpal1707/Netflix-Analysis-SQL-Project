@@ -43,6 +43,7 @@ CREATE TABLE netflix (
 ```
 
 ---
+![Image2](https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image2.jpg)
 
 ## 🧰 Business Problems & SQL Solutions
 
@@ -184,6 +185,8 @@ GROUP BY 1;
 
 *Insight:* Basic content flagging system based on description.
 
+![Image3](https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image3.jpg)
+
 ---
 
 ## 📊 Key Findings
@@ -205,6 +208,8 @@ GROUP BY 1;
 ```
 
 ---
+
+![Image4](https://github.com/bhaskarpal1707/Netflix-Analysis-SQL-Project/blob/main/Image4.jpg)
 
 ## 🚀 Future Enhancements
 
