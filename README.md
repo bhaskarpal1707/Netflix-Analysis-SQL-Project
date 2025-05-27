@@ -217,7 +217,7 @@ GROUP BY 1;
 
 **Bhaskar Pal**
 * Data enthusiast with a focus on analytics, SQL, and business intelligence.
-📧 Contact: [bhaskarpal.official@gmail.com]  
+* 📧 Contact: [bhaskarpal.official@gmail.com]  
 
 ---
 
